@@ -1,4 +1,4 @@
-<a href="google.com">
+<a>
   <img
     src="https://saeedkhatami.pythonanywhere.com?spin=true&scan=true&theme=dark"
     alt="Current Spotify Song"
