@@ -1,6 +1,6 @@
 <a>
   <img
-    src="https://saeedkhatami.pythonanywhere.com?spin=true&scan=true&theme=dark"
+    src="https://nowplaying.7576706e.workers.dev"
     alt="Current Spotify Song"
   />
 </a>
