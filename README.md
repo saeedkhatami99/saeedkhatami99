@@ -1,4 +1,4 @@
-<a>
+<a href=https://open.spotify.com/user/ptnt6osnmizhn6i6g64sfji7i target="_blank" rel="noopener noreferrer">
   <img
     src="https://nowplaying.7576706e.workers.dev"
     alt="Current Spotify Song"
