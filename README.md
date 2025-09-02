@@ -13,3 +13,5 @@
     alt="powerful spec"
   />
 </a>
+
+tLoC: 0
