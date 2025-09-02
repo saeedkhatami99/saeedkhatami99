@@ -58,13 +58,13 @@ jobs:
           total=$((total_public + total_private))
 
           {
-            echo "Lines Written Instead of Touching Grass 🌱: $total"
+            echo "Lines Written Instead of Touching Grass: $total"
             echo "---------------------------------------------"
             if [ -f results/public.txt ]; then
               sort -rn -k2 results/public.txt
             fi
             echo "---------------------------------------------"
-            echo "Secret Projects Coded in the Dark 🧛: $total_private"
+            echo "Secret Projects Coded in the Dark: $total_private"
           } > results/loc.txt
 
           {
