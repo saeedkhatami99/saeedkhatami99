@@ -18,9 +18,9 @@
 
 <!-- LOC-START -->
 ```
-Lines Written Instead of Touching Grass: 22897
+Lines Written Instead of Touching Grass: 22302
 ---------------------------------------------
-Im8086 11742
+Im8086 11147
 Multithread 1171
 FBI 1122
 OSsim 944
