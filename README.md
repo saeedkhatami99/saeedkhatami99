@@ -5,14 +5,12 @@
   />
 </a>
 
----
-
-<a href=https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up target="_blank" rel="noopener noreferrer">
+<!-- <a href=https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up target="_blank" rel="noopener noreferrer">
   <img
     src="1514.png"
     alt="powerful spec"
   />
-</a>
+</a> -->
 
 ---
 
