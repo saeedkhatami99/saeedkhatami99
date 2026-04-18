@@ -16,9 +16,9 @@
 
 <!-- LOC-START -->
 ```
-Lines Written Instead of Touching Grass: 224352
+Lines Written Instead of Touching Grass: 246185
 ---------------------------------------------
-Im8086 14731
+Im8086 14887
 FBI 2536
 Toolkit 1363
 Operation-System-Simulator 969
@@ -27,7 +27,7 @@ LOL 243
 saeedkhatami99 109
 CommitACrime 45
 ---------------------------------------------
-Secret Projects Coded in the Dark: 203871
+Secret Projects Coded in the Dark: 225548
 ```
 <!-- LOC-END -->
 
