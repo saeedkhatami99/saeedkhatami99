@@ -16,7 +16,7 @@
 
 <!-- LOC-START -->
 ```
-Lines Written Instead of Touching Grass: 246185
+Lines Written Instead of Touching Grass: 247181
 ---------------------------------------------
 Im8086 14887
 FBI 2536
@@ -27,7 +27,7 @@ LOL 243
 saeedkhatami99 109
 CommitACrime 45
 ---------------------------------------------
-Secret Projects Coded in the Dark: 225548
+Secret Projects Coded in the Dark: 226544
 ```
 <!-- LOC-END -->
 
