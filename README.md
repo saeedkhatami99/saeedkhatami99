@@ -14,18 +14,12 @@
 
 <!-- LOC-START -->
 ```
-Lines Written Instead of Touching Grass: 1134156
+Lines Written Instead of Touching Grass: 1134572
 ---------------------------------------------
-Im8086 14463
-FBI 2678
-Toolkit 1363
-Operation-System-Simulator 969
-HTTP 485
-LOL 243
 saeedkhatami99 102
 CommitACrime 45
 ---------------------------------------------
-Secret Projects Coded in the Dark: 1113808
+Secret Projects Coded in the Dark: 1134425
 ```
 <!-- LOC-END -->
 
