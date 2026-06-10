@@ -19,8 +19,9 @@
 | :----------: | :-------------------: | :--------: |  
 | ![help](resources/skore/help.png)| ![echoaboutmtophtopftopuptimeps](resources/skore/echoaboutmtophtopftopuptimeps.png)|
 | ![pong](resources/skore/pong.png)| ![doom](resources/skore/doom.png)|
-| ![lstouchls](resources/skore/lstouchls.png)|
-
+| ![lstouchls](resources/skore/lstouchls.png)|![piano](resources/skore/piano.png)|
+| ![change](resources/skore/change.png)|![dbg](resources/skore/dbg.png)|
+| ![space](resources/skore/space.png)|
 ---
 
 ## im8086 (hobby software (first attempt at a university project))
@@ -72,6 +73,11 @@
 ## KompresKonvert (compressing and converting wide range of multimedia files via ffmpeg)
 
 ## NightreignFA (translating elden ring nightreign to persian)
+
+|            |                     |          |
+| :----------: | :-------------------: | :--------: |  
+| ![status](resources/NightreignFA/status.png)| ![map](resources/NightreignFA/map.png)|
+| ![skill](resources/NightreignFA/skill.png)| ![neardeath](resources/NightreignFA/neardeath.png)|
 
 ## Panchar (hobby software (for games))
 
