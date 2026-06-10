@@ -15,19 +15,20 @@
 
 ## sKore (hobby OS)
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
+|            |                     |
+| :----------: | :-------------------: |
 | ![help](resources/skore/help.png)| ![echoaboutmtophtopftopuptimeps](resources/skore/echoaboutmtophtopftopuptimeps.png)|
 | ![pong](resources/skore/pong.png)| ![doom](resources/skore/doom.png)|
-| ![lstouchls](resources/skore/lstouchls.png)|![piano](resources/skore/piano.png)|
-| ![change](resources/skore/change.png)|![dbg](resources/skore/dbg.png)|
-| ![space](resources/skore/space.png)|<video controls src="resources/skore/classic.mp4" title="classic"></video>|
+| ![lstouchls](resources/skore/lstouchls.png)| ![piano](resources/skore/piano.png)|
+| ![change](resources/skore/change.png)| ![dbg](resources/skore/dbg.png)|
+| ![space](resources/skore/space.png)|<video controls src="https://github.com/saeedkhatami99/saeedkhatami99/raw/refs/heads/main/resources/skore/classic.mp4" title="classic"></video>|
 
 ---
+
 ## im8086 (hobby software (first attempt at a university project))
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
+|            |                     |
+| :----------: | :-------------------: |
 | ![emu](resources/im8086/emu.png)| ![tui](resources/im8086/tui.png)|
 | ![gui](resources/im8086/gui.png)| ![logo](resources/im8086/logo.png)|
 | ![lstouchls](resources/im8086/errorvar.png)| ![complete](resources/im8086/complete.png)|
@@ -36,8 +37,8 @@
 
 ## FBI (hobby software (second attempt at a university project))
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
+|            |                     |
+| :----------: | :-------------------: |
 | ![helpversionfdm](resources/fbi/helpversionfdm.png)| ![helpversionsteam](resources/fbi/helpversionsteam.png)|
 
 ---
@@ -56,8 +57,8 @@
 
 ## LOL (based on tsoding's pinpog(hard edition))
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
+|            |                     |
+| :----------: | :-------------------: |
 | ![game](resources/lol/game.png)| ![lol](resources/lol/lol.png)|
 
 ## sEMU (steam Emulator)
@@ -66,24 +67,24 @@
 
 ## GLA (university project)
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
+|            |                     |
+| :----------: | :-------------------: |
 | ![gla](resources/gla/gla.png)|
 
 ## KompresKonvert (compressing and converting wide range of multimedia files via ffmpeg)
 
 ## NightreignFA (translating elden ring nightreign to persian)
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
+|            |                     |
+| :----------: | :-------------------: |
 | ![status](resources/NightreignFA/status.png)| ![map](resources/NightreignFA/map.png)|
 | ![skill](resources/NightreignFA/skill.png)| ![neardeath](resources/NightreignFA/neardeath.png)|
 
 ## Panchar (hobby software (for games))
 
-|            |                     |          |
-| :----------: | :-------------------: | :--------: |  
-| ![panchar](resources/panchar/panchar.png)| ![lol](resources/panchar/result.png)|
+|            |                     |
+| :----------: | :-------------------: |
+| ![panchar](resources/panchar/panchar.png) | ![lol](resources/panchar/result.png)|
 
 ## Translating-IHNMAIMS (translating ihnmaims(i have no mouth, and i must scream) to persian)
 
