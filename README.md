@@ -21,7 +21,8 @@
 | ![pong](resources/skore/pong.png)| ![doom](resources/skore/doom.png)|
 | ![lstouchls](resources/skore/lstouchls.png)|![piano](resources/skore/piano.png)|
 | ![change](resources/skore/change.png)|![dbg](resources/skore/dbg.png)|
-| ![space](resources/skore/space.png)|<video controls src="resources/skore/classic.mp4" title="classic"></video>
+| ![space](resources/skore/space.png)|<video controls src="resources/skore/classic.mp4" title="classic"></video>|
+
 ---
 ## im8086 (hobby software (first attempt at a university project))
 
