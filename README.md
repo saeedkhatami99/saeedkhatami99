@@ -95,11 +95,11 @@ more details will upload and post here. everythin is now in private repos.
 
 <!-- LOC-START -->
 ```
-Lines Written Instead of Touching Grass: 1134572
+Lines Written Instead of Touching Grass: 1145211
 ---------------------------------------------
-saeedkhatami99 102
+saeedkhatami99 142
 CommitACrime 45
 ---------------------------------------------
-Secret Projects Coded in the Dark: 1134425
+Secret Projects Coded in the Dark: 1145024
 ```
 <!-- LOC-END -->
