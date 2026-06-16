@@ -43,7 +43,7 @@
 
 ---
 
-## memury64 (document driven game for memory editing for example game hacking)
+## memury64 (document for memory editing, here for game hacking)
 
 ## Toolkit
 
@@ -65,7 +65,7 @@
 
 ## eEMU (epic online service Emulator)
 
-## GLA (university project)
+## GLA Generative LLM AI (university project)
 
 |            |                     |
 | :----------: | :-------------------: |
@@ -88,9 +88,7 @@
 
 ## Translating-IHNMAIMS (translating ihnmaims(i have no mouth, and i must scream) to persian)
 
-## jetCon-nano-jp461 (tinkering with jeson nano to make it boot via usb)
-
-## Ecomulator-Cast
+## jetson-image-lab (tinkering with jeson nano to make it boot ubuntu 26 (via usb))
 
 more details will upload and post here. everythin is now in private repos.
 
