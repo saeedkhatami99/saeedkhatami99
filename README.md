@@ -92,5 +92,5 @@
 
 |            |                     |
 | :----------: | :-------------------: |
-| | 
+| ![jetsonubuntu26terminal](resources/jetson-image-lab/26.png)  | 
 
