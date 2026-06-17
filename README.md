@@ -92,5 +92,5 @@
 
 |            |                     |
 | :----------: | :-------------------: |
-| ![jetsonubuntu26terminal](resources/jetson-image-lab/26.png)  | 
+| ![jetsonubuntu26terminal](resources/jetson-image-lab/26.png) | ![neofetchubuntu26terminal](resources/jetson-image-lab/neofetch.png)|
 
