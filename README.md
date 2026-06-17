@@ -90,15 +90,7 @@
 
 ## jetson-image-lab (tinkering with jeson nano to make it boot ubuntu 26 (via usb))
 
-more details will upload and post here. everythin is now in private repos.
+|            |                     |
+| :----------: | :-------------------: |
+| | 
 
-<!-- LOC-START -->
-```
-Lines Written Instead of Touching Grass: 1146252
----------------------------------------------
-saeedkhatami99 148
-CommitACrime 45
----------------------------------------------
-Secret Projects Coded in the Dark: 1146059
-```
-<!-- LOC-END -->
