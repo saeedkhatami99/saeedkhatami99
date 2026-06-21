@@ -93,4 +93,5 @@
 |            |                     |
 | :----------: | :-------------------: |
 | ![jetsonubuntu26terminal](resources/jetson-image-lab/26.png) | ![neofetchubuntu26terminal](resources/jetson-image-lab/neofetch.png)|
+| ![neofetchdesktop.png](resources/jetson-image-lab/neofetchdesktop.png) | ![tegratopdesktop.png](resources/jetson-image-lab/tegratopdesktop.png)|
 
